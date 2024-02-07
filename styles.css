@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 2rem;
+}
+hr{
+    height: 2px;  
+    background-color: black;  
+    border: none; 
+}
+#section-1{
+    flex: 50%;
+    color: yellow;
+    background-image: url("images/bgimage.jpg");
+    text-align: center;
+    padding-top: 24rem;
+}
+
+#icons{
+    margin-top: 4rem;
+}
+
+.icon{
+    padding: 1rem;
+    width: 40px;
+    height: 40px;
+}
+
+#section-2{
+    flex: 50%;
+    background-color: yellow;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 10rem;
+}
+
+.year{
+    display: flex;
+}
+
+#resume-btn{
+    color: yellow;
+    background-color: black;
+    font-size: 1rem;
+    font-style: bold;
+    width: 100%;
+    padding: 0.5rem;
+}
