@@ -1,2 +1,2 @@
-This is a basic portfolio website project.
-Technolgoies used : HTML, CSS.
+This is a basic portfolio website project. <br>
+<em>Technolgoies used :</em> HTML, CSS.
