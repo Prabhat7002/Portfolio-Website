@@ -5,6 +5,7 @@ body{
     font-family: 'Open Sans', sans-serif;
     font-family: 'Ubuntu', sans-serif;
     margin: 2rem;
+    
 }
 hr{
     height: 2px;  
@@ -34,7 +35,7 @@ hr{
     background-color: yellow;
     padding-left: 2rem;
     padding-right: 2rem;
-    padding-bottom: 10rem;
+    padding-bottom: 2rem;
 }
 
 .year{
@@ -48,4 +49,18 @@ hr{
     font-style: bold;
     width: 100%;
     padding: 0.5rem;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    body{
+        display: block;
+        background-color: black;
+        font-family: 'Montserrat', sans-serif;
+        font-family: 'Open Sans', sans-serif;
+        font-family: 'Ubuntu', sans-serif;
+        margin: 2rem;
+        align-items: center;
+        justify-content: center;
+    }
 }
