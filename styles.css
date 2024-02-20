@@ -15,6 +15,7 @@ hr{
     flex: 50%;
     color: yellow;
     background-image: url("images/bgimage.jpg");
+    background-size: 100% 100%;
     text-align: center;
     padding-top: 24rem;
 }
